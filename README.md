@@ -28,9 +28,6 @@ These projects are part of my LangGraph learning journey and demonstrate how to 
 
   It then routes the query to the appropriate RAG pipeline.
 
-- `app.py`  
-  A Streamlit-based web app version of the college assistant.
-
 - `states.py`  
   Demonstrates different ways to define state in LangGraph, including:
   - TypedDict
